@@ -1,0 +1,5 @@
+package com.sathya.Spring.PatientEx;
+
+public class JavaConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.sathya.SpringExample;
+
+public class GreetingImpl {
+
+}

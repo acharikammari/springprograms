@@ -1,0 +1,5 @@
+package com.sathya.Spring.PersonExample;
+
+public class JavaConfig {
+
+}

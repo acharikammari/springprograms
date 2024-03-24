@@ -1,0 +1,2 @@
+spring.application.name=Springbootex
+server.port 8005

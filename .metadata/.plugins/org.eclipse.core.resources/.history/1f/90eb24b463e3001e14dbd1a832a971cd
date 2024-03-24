@@ -1,0 +1,30 @@
+package com.sathya.Spring;
+
+public class Person 
+{
+	private HomeloanService homeloanService;
+	private RealestateService realestateService;
+	
+	public HomeloanService getHomeloanService() {
+		return homeloanService;
+	}
+	public void setHomeloanService(HomeloanService homeloanService) {
+		this.homeloanService = homeloanService;
+	}
+	public RealestateService getRealestateService() {
+		return realestateService;
+	}
+	public void setRealestateService(RealestateService realestateService) {
+		this.realestateService = realestateService;
+	}
+	
+	public void details()
+	{
+		homeloanService.loan();
+		realestateService.realestate();
+	}
+	
+	
+	 
+}
+

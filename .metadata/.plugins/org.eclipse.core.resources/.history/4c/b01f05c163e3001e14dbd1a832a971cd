@@ -1,0 +1,15 @@
+package com.sathya.Spring;
+
+public class RealestateService 
+{
+	public void realestate()
+	{
+		System.out.println("I have a Home");
+		System.out.println("Take my Home");
+	}
+
+	public void realestate() {
+		// TODO Auto-generated method stub
+		
+	
+}
